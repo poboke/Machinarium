@@ -8,3 +8,13 @@
 演示：  
 ![wheel](https://github.com/poboke/Machinarium/raw/master/images/wheel_1.gif)
 
+
+### 算法解《机械迷城》游戏二：箭头换位置
+
+教程：[箭头换位置](https://www.poboke.com/study/machinarium-puzzle-game-arrow.html)
+
+代码：[arrow.py](https://github.com/poboke/Machinarium/blob/master/arrow.py)
+
+演示：  
+![arrow](https://github.com/poboke/Machinarium/raw/master/images/arrow.gif)
+
